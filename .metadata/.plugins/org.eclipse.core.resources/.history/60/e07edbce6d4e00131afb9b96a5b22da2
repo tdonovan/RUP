@@ -1,0 +1,12 @@
+#
+# Example file for Hello There
+#
+print "Hello There"
+#
+def main():
+	print "Hello there again!"
+	
+if __name__ == "__main__":
+	main()
+	
+print "There we go!"

@@ -1,0 +1,26 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/tdonovan/RUP/.metadata/.plugins/org.eclipse.core.resources/.projects/chap1/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+rectangle|0|/Users/tdonovan/RUP/chap1/src/rectangle.py
+ident|0|/Users/tdonovan/RUP/chap1/src/ident.py
+Hello|0|/Users/tdonovan/RUP/chap1/src/Hello.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=rectangle
+2=ident
+1=Hello
+-- END DICTIONARY
+-- START TREE 1
+3
+lon|1|longString!11@
+mai|2|main!18@main!10@
+rec|2|rectObject!27@rectangle!25@
+-- END TREE
+-- START TREE 2
+3
+len|1|length!3&27@
+rec|1|recArea!3&26@
+wid|1|width!3&27@
+-- END TREE

@@ -1,0 +1,15 @@
+#
+# Identify the operating system
+#
+import os
+from os import path
+
+def main():
+    # Print the name of the OS
+    print os.name;
+    print "Item exists: " + str(path.exists("logfile.txt") )
+    print "Item is a file: " + str(path.isfile("logfile.txt"))
+    print "Item is a dir: " + str(path.isdir("logfile.txt"))
+    
+if __name__ == "__main__":
+    main()

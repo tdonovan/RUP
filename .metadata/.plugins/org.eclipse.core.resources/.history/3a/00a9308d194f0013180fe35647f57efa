@@ -1,0 +1,11 @@
+#
+# Identify the operating system
+#
+import os
+
+def main():
+    # Print the name of the OS
+    print os.name;
+    
+if __name__ == "__main__":
+    main()

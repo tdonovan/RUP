@@ -1,0 +1,33 @@
+Logfile: Sun Nov 10 20:56:53 EST 2013
+-------------------------------------
+
+Output of "ls -al" command
+
+total 112
+drwxr-xr-x  17 tdonovan  staff   578 Nov 10 20:56 .
+drwxr-xr-x@ 39 tdonovan  staff  1326 Nov 10 20:56 ..
+drwxr-xr-x   9 tdonovan  staff   306 Nov  1 14:44 .git
+-rwxr-xr-x   1 tdonovan  staff   955 Nov  5 15:59 args.bash
+-rwxr-xr-x   1 tdonovan  staff  1936 Nov  7 15:08 args1.bash
+-rwxr-xr-x   1 tdonovan  staff   409 Nov  7 08:58 bash-ver.bash
+-rwxr-xr-x   1 tdonovan  staff   137 Nov 10 20:07 check-doc.bash
+-rwxr-xr-x   1 tdonovan  staff   392 Nov 10 13:40 ex-here.bash
+-rwxr-xr-x   1 tdonovan  staff   681 Nov 10 20:56 exec-fd.bash
+-rw-r--r--   1 tdonovan  staff  1474 Nov 10 13:41 gaddress.txt
+-rwxr-xr-x   1 tdonovan  staff   262 Nov  7 14:52 group.bash
+-rw-r--r--   1 tdonovan  staff   105 Nov 10 20:56 logfile.txt
+-rwxr-xr-x   1 tdonovan  staff   952 Nov  7 15:06 params.bash
+-rwxr-xr-x   1 tdonovan  staff   240 Nov  9 23:15 rectangle.py
+-rwxr-xr-x   1 tdonovan  staff   330 Nov  7 09:08 song-fav.bash
+-rwxr-xr-x   1 tdonovan  staff   786 Nov  7 14:49 timeout.bash
+-rwxr-xr-x   1 tdonovan  staff  1419 Oct 31 22:31 vars.bash
+
+
+Output of "df" command
+
+Filesystem                        512-blocks      Used Available Capacity  iused    ifree %iused  Mounted on
+/dev/disk0s2                       486717952 213756608 272449344    44% 26783574 34056168   44%   /
+devfs                                    364       364         0   100%      630        0  100%   /dev
+map -hosts                                 0         0         0   100%        0        0  100%   /net
+map auto_home                              0         0         0   100%        0        0  100%   /home
+localhost:/sNgtHNAzOgYADX6q9PhIkD  486717952 486717952         0   100%        0        0  100%   /Volumes/MobileBackups
